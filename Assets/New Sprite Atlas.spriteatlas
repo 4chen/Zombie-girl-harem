@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 7478976903742098277, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: -3563724614196286170, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: -3669090312902391969, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 503336627940436501, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 6514750666318542822, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: -1286439066333465821, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 8149209265722630742, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 7995308424941548063, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 5969547073446006113, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 6407249103347450813, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 7173829738702724696, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 4265311334235629522, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: -5615428638235516500, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    - {fileID: 6254635350763653337, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+    totalSpriteSurfaceArea: 3584
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 503336627940436501, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: -3669090312902391969, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: -3563724614196286170, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 7478976903742098277, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 7995308424941548063, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 8149209265722630742, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: -1286439066333465821, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 6514750666318542822, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 6407249103347450813, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 5969547073446006113, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: -5615428638235516500, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 6254635350763653337, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 7173829738702724696, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  - {fileID: 4265311334235629522, guid: 8c8d74721706bbd4abaa1dd65fa7f4cc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpookeyHarem_Walls_3
+  - SpookeyHarem_Walls_2
+  - SpookeyHarem_Walls_1
+  - SpookeyHarem_Walls_0
+  - SpookeyHarem_Walls_7
+  - SpookeyHarem_Walls_6
+  - SpookeyHarem_Walls_5
+  - SpookeyHarem_Walls_4
+  - SpookeyHarem_Walls_9
+  - SpookeyHarem_Walls_8
+  - SpookeyHarem_Walls_12
+  - SpookeyHarem_Walls_13
+  - SpookeyHarem_Walls_10
+  - SpookeyHarem_Walls_11
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

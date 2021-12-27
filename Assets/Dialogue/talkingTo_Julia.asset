@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f438c12f2f9289845ac8fe1223751fdd, type: 3}
+  m_Name: talkingTo_Julia
+  m_EditorClassIdentifier: 
+  dialogue:
+  - . . .
+  - . . is that . . BATTSY !? FOR REAL!!
+  - OMG Battsy is mental, this one time me and Gwen was at a house party with Battsy,
+    Then Swamp man challanged him to eat a onion
+  - Boy was on the floor cry for the rest of the night verry cool xD
+  portrait: {fileID: -7668415154003390612, guid: c83710ba3be286f4e89051692488ecd7, type: 3}
+  voice: {fileID: 8300000, guid: bace9142e33aeb441b4ccf43d164a87c, type: 3}
+  rightSide: 1
+  retreet: 1

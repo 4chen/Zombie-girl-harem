@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f438c12f2f9289845ac8fe1223751fdd, type: 3}
+  m_Name: TalkingTo_Gwen
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Uhm . . soo that is a bat, and bats are Beasts soo.
+  - i think he has two types of attacks he can . . .
+  - THREE ! THREE he has THREE attacks he can do just remember that he is a level
+    4 monster ;P
+  - so he can Scratch, Kick or Bite
+  - "i would say its a \n40% chanse he Scratches and \n60% chanse he bites\na bat
+    kicking isnt really a thing,"
+  portrait: {fileID: 9178625718777929269, guid: c83710ba3be286f4e89051692488ecd7, type: 3}
+  voice: {fileID: 8300000, guid: bace9142e33aeb441b4ccf43d164a87c, type: 3}
+  rightSide: 1
+  retreet: 1
